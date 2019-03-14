@@ -1,0 +1,123 @@
+body {
+    /*background: bisque;*/
+}
+
+.login {
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    /*border: 1px black solid;*/
+}
+
+.login1 {
+    width: 100px;
+    padding-left: 100px;
+    padding-right: 165px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin: auto;
+}
+
+a.ex2:hover, a.ex2:active {
+    font-size: 150%;
+    color: red;
+    text-decoration: none
+}
+
+input.ex1:hover, a.ex1:active {
+    font-size: 150%;
+    color: red;
+}
+
+input.ex3:hover, a.ex1:active {
+    font-size: 150%;
+    color: red;
+}
+
+input.ex4:hover, a.ex1:active {
+    font-size: 150%;
+    color: red;
+}
+
+.main {
+    width: 1000px;
+    height: 1300px;
+    /*border: 1px black solid;*/
+    margin: 0 auto;
+}
+
+.profil {
+    width: 300px;
+    height: 150px;
+    /*border: 1px black solid;*/
+    padding-top: 30px;
+}
+
+.user {
+    width: 400px;
+    height: 700px;
+    /*border: 1px black solid;*/
+    /* margin-left: auto; */
+    margin-top: 100px;
+    border-right: 1px rgba(0, 0, 0, 0.69) dashed;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+
+}
+
+.friends {
+    width: 500px;
+    height: 700px;
+    /* border: 1px black solid; */
+    margin-left: auto;
+    margin-top: -718px;
+    border-left: 1px rgba(0, 0, 0, 0.69) dashed;
+}
+
+
+
+.friends table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.reg {
+    margin: auto;
+    width: 1000px;
+    height: 500px;
+    /*border: 1px black solid*/
+}
+
+.register {
+    width: 100px;
+    /*height: 300px;*/
+    padding-left: 100px;
+    padding-right: 165px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    /*border: 1px black solid;*/
+    margin: auto
+}
+.register input:hover{
+    font-size: 150%;
+    color: red;
+}
+.request{
+    width: 1000px;
+    height: 150px;
+    /* border: 1px black solid; */
+}
+
+.request table{
+    border-collapse: collapse;
+    width: 100%;
+}
